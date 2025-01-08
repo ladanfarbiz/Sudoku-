@@ -1,0 +1,7 @@
+//File structure
+/SudokuSolver
+├── sudoku_solver.py       # Main script for solving Sudoku
+├── sudoku_mip_solver.py   # Optional: MIP-based Sudoku solver
+├── sudoku_input.txt       # Example Sudoku input file
+├── README.md              # Project documentation
+└── requirements.txt       # Python dependencies
